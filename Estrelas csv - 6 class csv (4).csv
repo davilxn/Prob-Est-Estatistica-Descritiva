@@ -1,0 +1,241 @@
+Id,Temperature (K),Star type,Star type (name),Star color,Spectral Class
+1,3068,0,Brown Dwarf,Red,M
+2,3042,0,Brown Dwarf,Red,M
+3,2600,0,Brown Dwarf,Red,M
+4,2800,0,Brown Dwarf,Red,M
+5,1939,0,Brown Dwarf,Red,M
+6,2840,0,Brown Dwarf,Red,M
+7,2637,0,Brown Dwarf,Red,M
+8,2600,0,Brown Dwarf,Red,M
+9,2650,0,Brown Dwarf,Red,M
+10,2700,0,Brown Dwarf,Red,M
+11,3600,1,Red Dwarf,Red,M
+12,3129,1,Red Dwarf,Red,M
+13,3134,1,Red Dwarf,Red,M
+14,3628,1,Red Dwarf,Red,M
+15,2650,1,Red Dwarf,Red,M
+16,3340,1,Red Dwarf,Red,M
+17,2799,1,Red Dwarf,Red,M
+18,3692,1,Red Dwarf,Red,M
+19,3192,1,Red Dwarf,Red,M
+20,3441,1,Red Dwarf,Red,M
+21,25000,2,White Dwarf,Blue White,B
+22,7740,2,White Dwarf,White,A
+23,7220,2,White Dwarf,White,F
+24,8500,2,White Dwarf,White,A
+25,16500,2,White Dwarf,Blue White,B
+26,12990,2,White Dwarf,Yellow White,F
+27,8570,2,White Dwarf,Blue White,A
+28,7700,2,White Dwarf,Yellow White,F
+29,11790,2,White Dwarf,Yellow White,F
+30,7230,2,White Dwarf,Yellow White,F
+31,39000,3,Main Sequence,Blue,O
+32,30000,3,Main Sequence,Blue White,B
+33,15276,3,Main Sequence,Blue White,B
+34,9700,3,Main Sequence,White,B
+35,5800,3,Main Sequence,Yellow White,F
+36,8052,3,Main Sequence,White,A
+37,6757,3,Main Sequence,Yellow White,F
+38,6380,3,Main Sequence,Yellow White,F
+39,5936,3,Main Sequence,Yellow White,F
+40,5587,3,Main Sequence,Yellow White,F
+41,3826,4,Supergiant,Red,M
+42,3365,4,Supergiant,Red,M
+43,3270,4,Supergiant,Red,M
+44,3200,4,Supergiant,Red,M
+45,3008,4,Supergiant,Red,M
+46,3600,4,Supergiant,Red,M
+47,3575,4,Supergiant,Red,M
+48,3574,4,Supergiant,Red,M
+49,3625,4,Supergiant,Red,M
+50,33750,4,Supergiant,Blue,B
+51,3490,5,Hypergiant,Red,M
+52,3750,5,Hypergiant,Red,M
+53,3834,5,Hypergiant,Red,M
+54,3749,5,Hypergiant,Orange,M
+55,3650,5,Hypergiant,Red,M
+56,3450,5,Hypergiant,Red,M
+57,3660,5,Hypergiant,Red,M
+58,3450,5,Hypergiant,Red,M
+59,3752,5,Hypergiant,Red,M
+60,3535,5,Hypergiant,Red,M
+61,3341,0,Brown Dwarf,Red,M
+62,3432,0,Brown Dwarf,Red,M
+63,2983,0,Brown Dwarf,Red,M
+64,2835,0,Brown Dwarf,Red,M
+65,2935,0,Brown Dwarf,Red,M
+66,3295,0,Brown Dwarf,Red,M
+67,2945,0,Brown Dwarf,Red,M
+68,2817,0,Brown Dwarf,Red,M
+69,2774,0,Brown Dwarf,Red,M
+70,2871,0,Brown Dwarf,Red,M
+71,3345,1,Red Dwarf,Red,M
+72,3607,1,Red Dwarf,Red,M
+73,3304,1,Red Dwarf,Red,M
+74,3150,1,Red Dwarf,Red,M
+75,3550,1,Red Dwarf,Red,M
+76,3180,1,Red Dwarf,Red,M
+77,2890,1,Red Dwarf,Red,M
+78,3342,1,Red Dwarf,Red,M
+79,2621,1,Red Dwarf,Red,M
+80,3158,1,Red Dwarf,Red,M
+81,7100,2,White Dwarf,Yellow White,F
+82,10574,2,White Dwarf,White,F
+83,8930,2,White Dwarf,White,A
+84,17200,2,White Dwarf,Blue White,B
+85,14100,2,White Dwarf,Blue White,B
+86,9675,2,White Dwarf,Blue White,A
+87,12010,2,White Dwarf,Blue White,B
+88,10980,2,White Dwarf,Blue White,B
+89,13720,2,White Dwarf,White,F
+90,19860,2,White Dwarf,Blue,B
+91,5300,3,Main Sequence,Yellow White,F
+92,4526,3,Main Sequence,Yellow White,K
+93,4077,3,Main Sequence,Yellow White,K
+94,4980,3,Main Sequence,Yellow White,K
+95,9030,3,Main Sequence,Blue White,A
+96,11250,3,Main Sequence,Blue White,A
+97,5112,3,Main Sequence,Orange,K
+98,7720,3,Main Sequence,Yellow White,F
+99,12098,3,Main Sequence,Blue White,A
+100,36108,3,Main Sequence,Blue,O
+101,33300,4,Supergiant,Blue,B
+102,40000,4,Supergiant,Blue,O
+103,23000,4,Supergiant,Blue,O
+104,17120,4,Supergiant,Blue,O
+105,11096,4,Supergiant,Blue,O
+106,14245,4,Supergiant,Blue,O
+107,24630,4,Supergiant,Blue,O
+108,12893,4,Supergiant,Blue,O
+109,24345,4,Supergiant,Blue,O
+110,33421,4,Supergiant,Blue,O
+111,3459,5,Hypergiant,Red,M
+112,3605,5,Hypergiant,Red,M
+113,3615,5,Hypergiant,Red,M
+114,3399,5,Hypergiant,Red,M
+115,3610,5,Hypergiant,Red,M
+116,3553,5,Hypergiant,Red,M
+117,4015,5,Hypergiant,Red,K
+118,3625,5,Hypergiant,Red,M
+119,6850,5,Hypergiant,Red,G
+120,3780,5,Hypergiant,Red,M
+121,3323,0,Brown Dwarf,Red,M
+122,3531,0,Brown Dwarf,Red,M
+123,3218,0,Brown Dwarf,Red,M
+124,3146,0,Brown Dwarf,Red,M
+125,3511,0,Brown Dwarf,Red,M
+126,3225,0,Brown Dwarf,Red,M
+127,2935,0,Brown Dwarf,Red,M
+128,2861,0,Brown Dwarf,Red,M
+129,2856,0,Brown Dwarf,Red,M
+130,2731,0,Brown Dwarf,Red,M
+131,3095,1,Red Dwarf,Red,M
+132,3607,1,Red Dwarf,Red,M
+133,3100,1,Red Dwarf,Red,M
+134,2989,1,Red Dwarf,Red,M
+135,3542,1,Red Dwarf,Red,M
+136,3243,1,Red Dwarf,Red,M
+137,3091,1,Red Dwarf,Red,M
+138,3598,1,Red Dwarf,Red,M
+139,3324,1,Red Dwarf,Red,M
+140,3541,1,Red Dwarf,Red,M
+141,13420,2,White Dwarf,Blue White,B
+142,21020,2,White Dwarf,Blue,B
+143,18290,2,White Dwarf,Blue,B
+144,14520,2,White Dwarf,Blue White,B
+145,11900,2,White Dwarf,Blue White,B
+146,8924,2,White Dwarf,Blue White,A
+147,12912,2,White Dwarf,Blue White,B
+148,14732,2,White Dwarf,White,F
+149,7723,2,White Dwarf,White,A
+150,12984,2,White Dwarf,Blue White,B
+151,29560,3,Main Sequence,Blue White,B
+152,8945,3,Main Sequence,Blue White,A
+153,14060,3,Main Sequence,Blue White,A
+154,16390,3,Main Sequence,Blue White,B
+155,25070,3,Main Sequence,Blue White,B
+156,28700,3,Main Sequence,Blue White,B
+157,26140,3,Main Sequence,Blue White,B
+158,20120,3,Main Sequence,Blue White,B
+159,13023,3,Main Sequence,Blue White,A
+160,37800,3,Main Sequence,Blue,O
+161,25390,4,Supergiant,Blue,O
+162,11567,4,Supergiant,Blue,O
+163,12675,4,Supergiant,Blue,O
+164,5752,4,Supergiant,Blue,O
+165,8927,4,Supergiant,Blue,O
+166,7282,4,Supergiant,Blue,O
+167,19923,4,Supergiant,Blue,O
+168,26373,4,Supergiant,Blue,O
+169,17383,4,Supergiant,Blue,O
+170,9373,4,Supergiant,Blue,O
+171,3570,5,Hypergiant,Red,M
+172,3500,5,Hypergiant,Red,M
+173,4287,5,Hypergiant,Orange,K
+174,26000,5,Hypergiant,Blue,B
+175,3600,5,Hypergiant,Red,M
+176,3614,5,Hypergiant,Red,M
+177,18000,5,Hypergiant,Blue,O
+178,11000,5,Hypergiant,Blue White,B
+179,12100,5,Hypergiant,Blue White,B
+180,24490,5,Hypergiant,Blue White,B
+181,2831,0,Brown Dwarf,Red,M
+182,2914,0,Brown Dwarf,Red,M
+183,3419,0,Brown Dwarf,Red,M
+184,3218,0,Brown Dwarf,Red,M
+185,3453,0,Brown Dwarf,Red,M
+186,2889,0,Brown Dwarf,Red,M
+187,2968,0,Brown Dwarf,Red,M
+188,3484,0,Brown Dwarf,Red,M
+189,2778,0,Brown Dwarf,Red,M
+190,3523,0,Brown Dwarf,Red,M
+191,3462,1,Red Dwarf,Red,M
+192,3257,1,Red Dwarf,Red,M
+193,2994,1,Red Dwarf,Red,M
+194,3212,1,Red Dwarf,Red,M
+195,3523,1,Red Dwarf,Red,M
+196,3598,1,Red Dwarf,Red,M
+197,3142,1,Red Dwarf,Red,M
+198,3496,1,Red Dwarf,Red,M
+199,3324,1,Red Dwarf,Red,M
+200,3463,1,Red Dwarf,Red,M
+201,16790,2,White Dwarf,Blue,B
+202,15680,2,White Dwarf,Blue,B
+203,14982,2,White Dwarf,Blue,B
+204,13340,2,White Dwarf,Blue,B
+205,18340,2,White Dwarf,Blue,B
+206,19920,2,White Dwarf,Blue,B
+207,24020,2,White Dwarf,Blue,B
+208,23092,2,White Dwarf,Blue,B
+209,17920,2,White Dwarf,Blue,B
+210,19360,2,White Dwarf,Blue,B
+211,22350,3,Main Sequence,Blue White,B
+212,10012,3,Main Sequence,Blue White,A
+213,13089,3,Main Sequence,Blue White,A
+214,22012,3,Main Sequence,Blue White,B
+215,34190,3,Main Sequence,Blue,O
+216,32460,3,Main Sequence,Blue,O
+217,9320,3,Main Sequence,Blue White,A
+218,19400,3,Main Sequence,Blue White,B
+219,17140,3,Main Sequence,Blue White,B
+220,8250,3,Main Sequence,Yellow White,F
+221,23678,4,Supergiant,Blue,O
+222,12749,4,Supergiant,Blue,O
+223,9383,4,Supergiant,Blue,O
+224,23440,4,Supergiant,Blue,O
+225,16787,4,Supergiant,Blue,O
+226,18734,4,Supergiant,Blue,O
+227,9892,4,Supergiant,Blue,O
+228,10930,4,Supergiant,Blue,O
+229,23095,4,Supergiant,Blue,O
+230,21738,4,Supergiant,Blue,O
+231,24145,5,Hypergiant,Blue White,B
+232,38234,5,Hypergiant,Blue,O
+233,32489,5,Hypergiant,Blue,O
+234,27739,5,Hypergiant,Blue White,B
+235,21904,5,Hypergiant,Blue White,B
+236,38940,5,Hypergiant,Blue,O
+237,30839,5,Hypergiant,Blue,O
+238,8829,5,Hypergiant,White,A
+239,9235,5,Hypergiant,White,A
+240,37882,5,Hypergiant,Blue,O
